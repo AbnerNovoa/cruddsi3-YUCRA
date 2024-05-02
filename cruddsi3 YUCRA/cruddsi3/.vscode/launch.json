@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Cruddsi3Application<cruddsi3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tec.cruddsi3.Cruddsi3Application",
+            "projectName": "cruddsi3",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
